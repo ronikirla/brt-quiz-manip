@@ -3,12 +3,12 @@
 ## Pre-Made Manipulations
 
 These manipulations are created for the US version of the game with a frame window of 5. For execution instructions, refer to the next section. If you want to make your own ones with different parameters, refer to the technical guide after that. These can probably be improved so feel free to try!
-- Hasty (DS)
-- Quirky (DS)
-- Relaxed (DS)
-- Hasty (DeSmuME 0.9.11)
-- Quirky (DeSmuME 0.9.11)
-- Relaxed (DeSmuME 0.9.11)
+- [Hasty (DS)](/premade_manips/hasty_ds.sav)
+- [Quirky (DS)](/premade_manips/quirky_ds.sav)
+- [Relaxed (DS)](/premade_manips/relaxed_ds.sav)
+- [Hasty (DeSmuME 0.9.11)](/premade_manips/hasty_emu.sav)
+- [Quirky (DeSmuME 0.9.11)](/premade_manips/quirky_emu.sav)
+- [Relaxed (DeSmuME 0.9.11)](/premade_manips/relaxed_emu.sav)
 
 ## How to Perform the Manipulation In-Game
 This manipulation relies on an audio cue. For the best results, make sure that your setup does not have any audio delay. This means that you should not be listening to the game audio through a capture or a virtual audio device. On a console you would essentially turn up the volume from the speakers or listen through headphones directly connected to it.
@@ -21,7 +21,7 @@ This manipulation relies on an audio cue. For the best results, make sure that y
 
 This manipulation only guarantees that the first question is desirable. However, it employs some tricks to make it *more likely* to hit even more desirable questions. As a result, you should expect to get the correct nature from the quiz the majority of the time.
 
-[Video version of the manipulation](https://youtu.be/14Nf_Tt_MtU). It also shows the Lua-script  included in this repository.
+[Video demonstration of the manipulation](https://youtu.be/14Nf_Tt_MtU). It also shows the Lua-script  included in this repository.
 
 ## Technical Explanation: How to Create Your Own Manipulation
 This game uses a fairly standard linear congrugential generator for random numbers. Thanks to a [decompilation project](https://github.com/pret/pmd-red/tree/master), the [code of the generator](https://github.com/pret/pmd-red/blob/master/src/random.c) can be easily inspected. The starting seed of the RNG is determined using the save file, and is kept even if using the in-game functionality for deleting the save. After that, the RNG is advanced either once or twice per frame, depending on inputs.
