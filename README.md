@@ -39,7 +39,7 @@ There's two more techniques we can use to further increase the odds of a success
 With the general explanation out of the way, we can move into the steps to create a quiz manipulation using the scripts in this repository.
 
 ### Step 1: [quiz_miner.py](quiz_miner.py)
-Using this script, we can perform the heavy lifting and find the range of seeds with good questions. Honestly, this script could use a C++ implementation with parallelization but for now this one will suffice. Running it for an  extended time has diminishing returns anyway.  Some full 32-bit range runs are provided in seed_miner_output_examples.
+Using this script, we can perform the heavy lifting and find the range of seeds with good questions. Honestly, this script could use a C++ implementation with parallelization but for now this one will suffice. Running it for an  extended time has diminishing returns anyway.  Some full 32-bit range runs are provided in [seed_miner_output_examples](seed_miner_output_examples/).
 
 The script asks for the nature and desired categories. For the categories, I recommend looking in questions.json for the categories that have a single question that yields at most 2 points. For example, with Hasty these would be 6, 7, 10. The starting seed is just where the program starts searching and window width means how many consecutive desirable questions are searched for.
 
