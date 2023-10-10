@@ -79,7 +79,7 @@ Now that we finally have the desired seed, it is time to create a save file with
 3. Reset the game and do not touch any buttons as to not advance the RNG. If you press a button, it might change the number of advances per frame to become 2 instead of 1. This causes the result to be wrong as the cheat code only resets the value each frame.
 4. Using the touchscreen, navigate through the main menu to delete your save data. Now the "deleted save" contains the correct seed and you can export it.
 5. Remember to disable the cheat afterwards, otherwise you will falsely always get the same questions (and RNG overall).
-6. You can use the Lua-script to check whether the game loads the correct seed from the file, as it prints the initial seed to the console.
+6. You can use the Lua-script to check whether the game loads the correct seed from the file, as it prints the initial seed to the console. This should be the one that you input into seed_inverter, not the output!
 
 
 ### Step 6: Verify It Works
