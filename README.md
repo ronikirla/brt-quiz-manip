@@ -66,7 +66,7 @@ You can copy my offset to skip this step, but it is platform-dependent due to va
 ### Step 4: [seed_inverter.py](seed_inverter.py)
  Not only do you need the offset, but also the seed the game starts from is not simply the one inserted into the save file. Instead, the game calls the RNG twice and uses the results of those calls to re-seed it. So, an inverse function of this is implemented in this script.
  1. Find the midpoint of the consecutive questions from the output generated in step 2. You can Ctrl+F "ENDING SEED" to get to the last one.
- 2. Go up as many lines as your discovered offset (using VSCode ctrl+G for exmaple).
+ 2. Go up as many lines as your discovered offset (using VSCode ctrl+G for example).
  3. Input the seed number on the line you end up at into this script.
  4. Not every seed can be inverted. If unsuccessful, you could try an adjacent seed in the seed_printer output or generate an entirely different seed range based on what you found in step 1.
 
