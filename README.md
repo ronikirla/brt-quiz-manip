@@ -14,7 +14,7 @@ These manipulations are created for the US version of the game with a frame wind
 This manipulation relies on an audio cue. For the best results, make sure that your setup does not have any audio delay. This means that you should not be listening to the game audio through a capture or a virtual audio device. On a console you would essentially turn up the volume from the speakers or listen through headphones directly connected to it.
 
 1. Load the manipulated save file (according to your platform) using a save file manager or an emulator.
-2. After booting the game, do not press any buttons as those affect the RNG. If you want to play in pixel-perfect mode on a 3DS, you can still hold start/select but need to release them quickly before white flash ends.
+2. After booting the game, do not press any buttons as those affect the RNG. If you want to play in pixel-perfect mode on a 3DS, you can still hold start/select but need to release them quickly before the white flash ends.
 3. The exception to this is L/R, you can use those buttons to skip the title screen at the end of the intro.
 4. When you load into the main menu, start closely listening to the music.
 5. On the first beat of the second measure, press A+B at the same time and hold them down until you get to the first question in the quiz.
