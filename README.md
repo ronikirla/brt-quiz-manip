@@ -1,5 +1,5 @@
 # brt-quiz-manip
-**This repository contains the tools to create a personality quiz RNG-manipulation for Pokémon Mystery Dungeon: Blue Rescue Team. Additionally, it contains some pre-made manipulated save files for the most popular natures used in speedruns.**
+**This repository contains the tools to create personality quiz RNG-manipulations for Pokémon Mystery Dungeon: Blue Rescue Team. Additionally, it contains some pre-made manipulated save files for the most popular natures used in speedruns.**
 ## Pre-Made Manipulations
 
 These manipulations are created for the US version of the game with a frame window of 5. For execution instructions, refer to the next section. If you want to make your own ones with different parameters, refer to the technical guide after that. These can probably be improved so feel free to try!
