@@ -1,0 +1,612 @@
+--------------------
+Consecutive:   5
+Ratio:         31.94%
+Advances:      20833050
+Starting seed: 0xee9a9652
+Ending seed:   0x54a31f32
+--------------------
+Consecutive:   5
+Ratio:         30.56%
+Advances:      22522058
+Starting seed: 0x2a1681f2
+Ending seed:   0xfae2bad2
+--------------------
+Consecutive:   5
+Ratio:         31.25%
+Advances:      24254372
+Starting seed: 0xc656907e
+Ending seed:   0x6d4535e
+--------------------
+Consecutive:   5
+Ratio:         29.17%
+Advances:      26960149
+Starting seed: 0xd50a8d54
+Ending seed:   0xc8b40d34
+--------------------
+Consecutive:   5
+Ratio:         29.86%
+Advances:      30247242
+Starting seed: 0xb6fa28f2
+Ending seed:   0xf516e1d2
+--------------------
+New best!
+Consecutive:   5
+Ratio:         33.33%
+Advances:      30361577
+Starting seed: 0x82b4892c
+Ending seed:   0xbe06bd0c
+--------------------
+Consecutive:   5
+Ratio:         31.94%
+Advances:      31559211
+Starting seed: 0xd8c97cc8
+Ending seed:   0x68ca72a8
+--------------------
+Consecutive:   5
+Ratio:         31.94%
+Advances:      33152025
+Starting seed: 0x29fd00cc
+Ending seed:   0x2a9ce4ac
+--------------------
+Consecutive:   5
+Ratio:         30.56%
+Advances:      40865446
+Starting seed: 0x8617797a
+Ending seed:   0xd14bce5a
+--------------------
+Progress: 1% (0xe5114cb0)
+--------------------
+Consecutive:   5
+Ratio:         31.71%
+Advances:      47148545
+Starting seed: 0xc45baafc
+Ending seed:   0x36c9b6dc
+--------------------
+Consecutive:   5
+Ratio:         30.56%
+Advances:      48820348
+Starting seed: 0xb68b574e
+Ending seed:   0xe5fe722e
+--------------------
+Consecutive:   5
+Ratio:         30.56%
+Advances:      55349971
+Starting seed: 0x9362be78
+Ending seed:   0xe5681c58
+--------------------
+Consecutive:   5
+Ratio:         31.25%
+Advances:      59206732
+Starting seed: 0xc0f8baae
+Ending seed:   0x2384a58e
+--------------------
+Consecutive:   5
+Ratio:         31.31%
+Advances:      67463320
+Starting seed: 0x817e81d6
+Ending seed:   0x4a3438b6
+--------------------
+Consecutive:   5
+Ratio:         30.56%
+Advances:      68469980
+Starting seed: 0xe5c0e88e
+Ending seed:   0x1b76636e
+--------------------
+Consecutive:   5
+Ratio:         32.64%
+Advances:      72152325
+Starting seed: 0xc0eed974
+Ending seed:   0xcfc9c954
+--------------------
+Consecutive:   5
+Ratio:         30.56%
+Advances:      80799655
+Starting seed: 0x1339b3d0
+Ending seed:   0xae505b0
+--------------------
+Consecutive:   5
+Ratio:         32.64%
+Advances:      82474096
+Starting seed: 0xf22bd0a6
+Ending seed:   0x8d72df86
+--------------------
+Consecutive:   5
+Ratio:         31.71%
+Advances:      85066605
+Starting seed: 0xe74858a4
+Ending seed:   0x4072f084
+--------------------
+Progress: 2% (0xac16dd60)
+--------------------
+Consecutive:   5
+Ratio:         30.49%
+Advances:      86829056
+Starting seed: 0xb1d09c86
+Ending seed:   0x2efa3b66
+--------------------
+Consecutive:   6
+Ratio:         31.65%
+Advances:      87318444
+Starting seed: 0x2a2fdee
+Ending seed:   0x82d048ce
+--------------------
+New best!
+Consecutive:   5
+Ratio:         36.21%
+Advances:      88550987
+Starting seed: 0x7dc07088
+Ending seed:   0xac688668
+--------------------
+Consecutive:   5
+Ratio:         33.33%
+Advances:      96371184
+Starting seed: 0x2b483da6
+Ending seed:   0x8de4cc86
+--------------------
+Consecutive:   5
+Ratio:         32.93%
+Advances:      110817129
+Starting seed: 0x11a2fa2c
+Ending seed:   0xd438ae0c
+--------------------
+Consecutive:   5
+Ratio:         33.33%
+Advances:      114962415
+Starting seed: 0x5e4f8040
+Ending seed:   0x73eda20
+--------------------
+Progress: 3% (0x9353b210)
+--------------------
+Consecutive:   5
+Ratio:         32.64%
+Advances:      131518159
+Starting seed: 0xf4b9a680
+Ending seed:   0x688ce060
+--------------------
+New best!
+Consecutive:   5
+Ratio:         37.80%
+Advances:      137389551
+Starting seed: 0x53565440
+Ending seed:   0x428bae20
+--------------------
+Consecutive:   5
+Ratio:         34.72%
+Advances:      148959955
+Starting seed: 0xac65fe78
+Ending seed:   0x3fcb5c58
+--------------------
+Progress: 4% (0x174acac0)
+--------------------
+Consecutive:   6
+Ratio:         34.03%
+Advances:      208874186
+Starting seed: 0x94751df2
+Ending seed:   0x728356d2
+--------------------
+Progress: 5% (0xa2bf2770)
+--------------------
+Progress: 6% (0x3eb3c820)
+--------------------
+Progress: 7% (0x426bacd0)
+--------------------
+Consecutive:   5
+Ratio:         34.15%
+Advances:      304074619
+Starting seed: 0xde75d428
+Ending seed:   0x73459a08
+--------------------
+Consecutive:   5
+Ratio:         34.72%
+Advances:      308706567
+Starting seed: 0x89a0ed10
+Ending seed:   0xf21a9ef0
+--------------------
+Progress: 8% (0x369d580)
+--------------------
+Consecutive:   5
+Ratio:         34.03%
+Advances:      364480302
+Starting seed: 0xb4896ea
+Ending seed:   0xfd1473ca
+--------------------
+Consecutive:   5
+Ratio:         36.81%
+Advances:      371104416
+Starting seed: 0x83a37546
+Ending seed:   0x872db426
+--------------------
+Progress: 9% (0x85714230)
+--------------------
+Consecutive:   5
+Ratio:         34.72%
+Advances:      394809082
+Starting seed: 0x389b2492
+Ending seed:   0x3eb38d72
+--------------------
+Consecutive:   5
+Ratio:         34.03%
+Advances:      396545242
+Starting seed: 0x6f86ed2
+Ending seed:   0xcad2b7b2
+--------------------
+Consecutive:   5
+Ratio:         35.37%
+Advances:      410351887
+Starting seed: 0x3412ca00
+Ending seed:   0xe1a643e0
+--------------------
+Progress: 10% (0x2a84f2e0)
+--------------------
+Consecutive:   5
+Ratio:         34.03%
+Advances:      454789707
+Starting seed: 0xbae93888
+Ending seed:   0xc40d4e68
+--------------------
+Consecutive:   5
+Ratio:         36.46%
+Advances:      463992013
+Starting seed: 0x3badde4
+Ending seed:   0xbdddd5c4
+--------------------
+Consecutive:   5
+Ratio:         35.42%
+Advances:      464933378
+Starting seed: 0x3c599f02
+Ending seed:   0xb0270fe2
+--------------------
+Progress: 11% (0x62e7e790)
+--------------------
+Consecutive:   5
+Ratio:         34.72%
+Advances:      513631625
+Starting seed: 0x5693dec
+Ending seed:   0x55be11cc
+--------------------
+Progress: 12% (0x5d1d2040)
+--------------------
+Consecutive:   5
+Ratio:         34.03%
+Advances:      556014557
+Starting seed: 0xe4c563c4
+Ending seed:   0x7d85eba4
+--------------------
+Progress: 13% (0xb5e79cf0)
+--------------------
+Consecutive:   5
+Ratio:         36.59%
+Advances:      587819938
+Starting seed: 0x3ea9cdc2
+Ending seed:   0x4254dea2
+--------------------
+Consecutive:   5
+Ratio:         35.42%
+Advances:      594666461
+Starting seed: 0xca27d3c4
+Ending seed:   0x3f05ba4
+--------------------
+Consecutive:   5
+Ratio:         37.50%
+Advances:      599344580
+Starting seed: 0xd3e0e23e
+Ending seed:   0xbb5ec51e
+--------------------
+Progress: 14% (0x284a5da0)
+--------------------
+Consecutive:   5
+Ratio:         36.59%
+Advances:      623167306
+Starting seed: 0xe5a20cf2
+Ending seed:   0x193cc5d2
+--------------------
+Consecutive:   5
+Ratio:         35.37%
+Advances:      628006234
+Starting seed: 0x9193b5d2
+Ending seed:   0x706e7eb2
+--------------------
+Consecutive:   5
+Ratio:         34.03%
+Advances:      635315773
+Starting seed: 0x27d41704
+Ending seed:   0xf63dfee4
+--------------------
+Progress: 15% (0x3d886250)
+--------------------
+Consecutive:   5
+Ratio:         36.11%
+Advances:      659355916
+Starting seed: 0x6f89d52e
+Ending seed:   0xd1be800e
+--------------------
+Consecutive:   6
+Ratio:         37.76%
+Advances:      664434600
+Starting seed: 0xe0ede6b6
+Ending seed:   0x9e15ad96
+--------------------
+Consecutive:   5
+Ratio:         34.03%
+Advances:      665980703
+Starting seed: 0x162c33e0
+Ending seed:   0x885b3dc0
+--------------------
+Consecutive:   5
+Ratio:         34.15%
+Advances:      676488061
+Starting seed: 0x518dcc84
+Ending seed:   0x43a6f464
+--------------------
+Progress: 16% (0xfd24ab00)
+--------------------
+Consecutive:   5
+Ratio:         34.44%
+Advances:      714115867
+Starting seed: 0x7fdbe0e8
+Ending seed:   0x1a246c8
+--------------------
+New best!
+Consecutive:   5
+Ratio:         41.11%
+Advances:      721794974
+Starting seed: 0xae08350a
+Ending seed:   0x2c9481ea
+--------------------
+Progress: 17% (0x9ce237b0)
+--------------------
+Progress: 18% (0x30c40860)
+--------------------
+Progress: 19% (0x5b0d1d10)
+--------------------
+Progress: 20% (0xfc4075c0)
+--------------------
+New best!
+Consecutive:   5
+Ratio:         42.55%
+Advances:      885407935
+Starting seed: 0xa792fca0
+Ending seed:   0xc26aa680
+--------------------
+Progress: 21% (0xe3211270)
+--------------------
+Progress: 22% (0x7cb1f320)
+--------------------
+Progress: 23% (0x843617d0)
+--------------------
+Progress: 24% (0xb3308080)
+--------------------
+Consecutive:   5
+Ratio:         40.62%
+Advances:      1073731080
+Starting seed: 0x3aab4bf6
+Ending seed:   0xbfdb72d6
+--------------------
+Progress: 25% (0x71642d30)
+--------------------
+Progress: 26% (0x84d41de0)
+--------------------
+Progress: 27% (0xc1c35290)
+--------------------
+Progress: 28% (0xbab4cb40)
+--------------------
+Progress: 29% (0x706b87f0)
+--------------------
+Progress: 30% (0x1ea88a0)
+--------------------
+Progress: 31% (0x5c74cd50)
+--------------------
+Consecutive:   5
+Ratio:         39.87%
+Advances:      1350354091
+Starting seed: 0x82931fc8
+Ending seed:   0x83f695a8
+--------------------
+Consecutive:   5
+Ratio:         38.89%
+Advances:      1350354126
+Starting seed: 0x1788b5aa
+Ending seed:   0x1d7a328a
+--------------------
+Progress: 32% (0xeb8d5600)
+--------------------
+Progress: 33% (0x48f722b0)
+--------------------
+Progress: 34% (0xecb53360)
+--------------------
+Consecutive:   6
+Ratio:         38.64%
+Advances:      1469171176
+Starting seed: 0xb03e5636
+Ending seed:   0xf1505d16
+--------------------
+Progress: 35% (0xdd0a8810)
+--------------------
+Progress: 36% (0x5e7a20c0)
+--------------------
+Consecutive:   5
+Ratio:         39.13%
+Advances:      1564997016
+Starting seed: 0xb5b457d6
+Ending seed:   0xe9a70eb6
+--------------------
+Progress: 37% (0xa3c6fd70)
+--------------------
+Consecutive:   5
+Ratio:         40.28%
+Advances:      1606625408
+Starting seed: 0xd06b386
+Ending seed:   0x6088d266
+--------------------
+Progress: 38% (0x7df41e20)
+--------------------
+Progress: 39% (0xc4482d0)
+--------------------
+Progress: 40% (0x6c3b2b80)
+--------------------
+Progress: 41% (0x699b1830)
+--------------------
+Progress: 42% (0x2e6748e0)
+--------------------
+Progress: 43% (0xf2e2bd90)
+--------------------
+Progress: 44% (0xad907640)
+--------------------
+Progress: 45% (0xc33372f0)
+--------------------
+Progress: 46% (0xb6ceb3a0)
+--------------------
+Progress: 47% (0xd9a53850)
+--------------------
+Progress: 48% (0xfb3a0100)
+--------------------
+Progress: 49% (0x19500db0)
+--------------------
+Progress: 50% (0xfea5e60)
+--------------------
+Progress: 51% (0x494bf310)
+--------------------
+Progress: 52% (0x6df7cbc0)
+--------------------
+Progress: 53% (0x14b0e870)
+--------------------
+Progress: 54% (0x727a4920)
+--------------------
+Progress: 55% (0xa96edd0)
+--------------------
+Progress: 56% (0x5e89d680)
+--------------------
+Progress: 57% (0x9e160330)
+--------------------
+Progress: 58% (0x573e73e0)
+--------------------
+Progress: 59% (0x26462890)
+--------------------
+Progress: 60% (0x65b02140)
+--------------------
+Progress: 61% (0xde3f5df0)
+--------------------
+Progress: 62% (0x76f6dea0)
+--------------------
+Progress: 63% (0xe519a350)
+--------------------
+Progress: 64% (0x5c2aac00)
+--------------------
+Progress: 65% (0x3decf8b0)
+--------------------
+Progress: 66% (0xca638960)
+--------------------
+Consecutive:   5
+Ratio:         41.11%
+Advances:      2869278622
+Starting seed: 0xae08350a
+Ending seed:   0x2c9481ea
+--------------------
+Progress: 67% (0xcfd15e10)
+--------------------
+Progress: 68% (0x5ab976c0)
+--------------------
+Progress: 69% (0x65ded370)
+--------------------
+Progress: 70% (0x8a447420)
+--------------------
+Consecutive:   5
+Ratio:         42.55%
+Advances:      3032891583
+Starting seed: 0xa792fca0
+Ending seed:   0xc26aa680
+--------------------
+Progress: 71% (0xaf2d58d0)
+--------------------
+Progress: 72% (0xba1c8180)
+--------------------
+Progress: 73% (0x3ed4ee30)
+--------------------
+Progress: 74% (0x2f599ee0)
+--------------------
+Consecutive:   5
+Ratio:         40.62%
+Advances:      3221214728
+Starting seed: 0x3aab4bf6
+Ending seed:   0xbfdb72d6
+--------------------
+Progress: 75% (0x8bed9390)
+--------------------
+Progress: 76% (0x1313cc40)
+--------------------
+Progress: 77% (0xf18f48f0)
+--------------------
+Progress: 78% (0x726309a0)
+--------------------
+Progress: 79% (0xaed20e50)
+--------------------
+Progress: 80% (0x3e5f5700)
+--------------------
+Progress: 81% (0xe6cde3b0)
+--------------------
+Consecutive:   5
+Ratio:         39.87%
+Advances:      3497837739
+Starting seed: 0x82931fc8
+Ending seed:   0x83f695a8
+--------------------
+Consecutive:   5
+Ratio:         38.89%
+Advances:      3497837774
+Starting seed: 0x1788b5aa
+Ending seed:   0x1d7a328a
+--------------------
+Progress: 82% (0x4c20b460)
+--------------------
+Progress: 83% (0xa09ac910)
+--------------------
+Progress: 84% (0x54bf21c0)
+--------------------
+Consecutive:   6
+Ratio:         38.64%
+Advances:      3616654824
+Starting seed: 0xb03e5636
+Ending seed:   0xf1505d16
+--------------------
+Progress: 85% (0xc750be70)
+--------------------
+Progress: 86% (0xf5529f20)
+--------------------
+Consecutive:   5
+Ratio:         39.13%
+Advances:      3712480664
+Starting seed: 0xb5b457d6
+Ending seed:   0xe9a70eb6
+--------------------
+Progress: 87% (0x2a07c3d0)
+--------------------
+Consecutive:   5
+Ratio:         40.28%
+Advances:      3754109056
+Starting seed: 0xd06b386
+Ending seed:   0x6088d266
+--------------------
+Progress: 88% (0xaef32c80)
+--------------------
+Progress: 89% (0x7bd7d930)
+--------------------
+Progress: 90% (0xe6b8c9e0)
+--------------------
+Progress: 91% (0x53d8fe90)
+--------------------
+--------------------
+Progress: 93% (0x2d2333f0)
+--------------------
+Progress: 94% (0xd91334a0)
+--------------------
+Progress: 95% (0x66ce7950)
+--------------------
+Progress: 96% (0xd1d80200)
+--------------------
+Progress: 97% (0x43f2ceb0)
+--------------------
+Progress: 98% (0xc521df60)
+--------------------
+Progress: 99% (0xeba83410)
+--------------------
+Progress: 100% (0x8c08ccc0)

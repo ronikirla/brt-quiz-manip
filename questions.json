@@ -1,0 +1,801 @@
+[
+    {
+        "string": "A test is coming up. How do you study for it?",
+        "group": 1,
+        "answers": {
+            "Study hard.": {
+                "hardy": 2
+            },
+            "At the last second.": {
+                "relaxed": 2
+            },
+            "Ignore it and play.": {
+                "impish": 2
+            }
+        }
+    },
+    {
+        "string": "Can you focus on something you like?",
+        "group": 1,
+        "answers": {
+            "Yes.": {
+                "hardy": 2,
+                "docile": 1
+            },
+            "No.": {
+                "quirky": 2
+            }
+        }
+    },
+        {
+        "string": "When the going gets tough, do you get going?",
+        "group": 1,
+        "answers": {
+            "Yes.": {
+                "hardy": 2,
+                "brave": 2
+            },
+            "No.": {
+                "sassy": 2,
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "There is a bucket. If you put water in it, how high will you fill it?",
+        "group": 1,
+        "answers": {
+            "Full.": {
+                "hardy": 2
+            },
+            "Half": {
+                "calm.": 2
+            },
+            "A little.": {
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "You are offered a choice of two gifts. Which one will you take?",
+        "group": 2,
+        "answers": {
+            "Big box.": {
+                "docile": 2,
+                "naive": 1
+            },
+            "Small box.": {
+                "timid": 2,
+                "calm": 1
+            }
+        }
+    },
+    {
+        "string": "You broke a rotten egg in your room! What will you do?",
+        "group": 2,
+        "answers": {
+            "Open a window right away.": {
+                "docile": 2,
+                "hasty": 1
+            },
+            "Take a sniff first.": {
+                "naive": 2,
+                "relaxed": 1
+            }
+        }
+    },
+    {
+        "string": "A friend brought you something you'd forgotten. How do you thank your friend?",
+        "group": 2,
+        "answers": {
+            "Say thank you regularly.": {
+                "docile": 2
+            },
+            "Say thanks with a joke.": {
+                "naive": 1,
+                "lonely": 1
+            },
+            "Say thanks, but be cool.": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "There is a wallet at the side of a road.",
+        "group": 2,
+        "answers": {
+            "Turn it in to the police!": {
+                "docile": 2
+            },
+            "Yay! Yay!": {
+                "naive": 2
+            },
+            "Is anyone watching...?": {
+                "impish": 2
+            }
+        }
+    },
+    {
+        "string": "You're going bungee jumping for the first time. Since it's scary, you decide to test the jump with a doll... And the bungee cord snaps! Will you still try to make a jump anyway?",
+        "group": 3,
+        "answers": {
+            "Yes.": {
+                "brave": 3,
+                "impish": 1
+            },
+            "No.": {
+                "docile": 2,
+                "timid": 1
+            }
+        }
+    },
+    {
+        "string": "There is an alien invasion! What will you do?",
+        "group": 3,
+        "answers": {
+            "Run.": {
+                "timid": 2
+            },
+            "Ignore it.": {
+                "relaxed": 2
+            }
+        }
+    },
+    {
+        "string": "There is a scream from behind a door! How will you react?",
+        "group": 3,
+        "answers": {
+            "Yank open the door.": {
+                "hardy": 1,
+                "brave": 2
+            },
+            "Scream in unison.": {
+                "naive": 2
+            }
+        }
+    },
+    {
+        "string": "A delinquent is hassling a girl on a busy city street! What will you do?",
+        "group": 3,
+        "answers": {
+            "Help without hesitation.": {
+                "brave": 3
+            },
+            "Help, even if scared.": {
+                "hardy": 2,
+                "brave": 2
+            },
+            "Call the police.": {
+                "docile": 1,
+                "timid": 1,
+                "relaxed": 1
+            },
+            "Do nothing out of fear.": {
+                "timid": 2
+            }
+        }
+    },
+    {
+        "string": "Are you a cheerful personality?",
+        "group": 4,
+        "answers": {
+            "Yes.": {
+                "jolly": 2,
+                "naive": 1
+            },
+            "No.": {
+                "sassy": 1,
+                "quirky": 1
+            }
+        }
+    },
+    {
+        "string": "Do you like to noisily enjoy yourself with others?",
+        "group": 4,
+        "answers": {
+            "Yes.": {
+                "jolly": 2,
+                "lonely": 1
+            },
+            "No.": {
+                "timid": 1
+            }
+        }
+    },
+    {
+        "string": "It's the summer holidays! Where would you like to go?",
+        "group": 4,
+        "answers": {
+            "The beach!": {
+                "jolly": 2
+            },
+            "Spas.": {
+                "calm": 2
+            },
+            "Anywhere.": {
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "A foreign person has started up a conversation with you. To be honest, you don't have a clue what this fellow is saying. How do you reply?",
+        "group": 4,
+        "answers": {
+            "Haha! Yes. Very funny!": {
+                "jolly": 3
+            },
+            "Um... Could you say that again?": {
+                "hardy": 2
+            },
+            "Right... Well, I gotta go.": {
+                "timid": 2
+            }
+        }
+    },
+    {
+        "string": "Have you ever made a pitfall trap?",
+        "group": 5,
+        "answers": {
+            "Yes.": {
+                "impish": 2,
+                "lonely": 1
+            },
+            "No.": {
+                "calm": 2
+            }
+        }
+    },
+    {
+        "string": "Do you like pranks?",
+        "group": 5,
+        "answers": {
+            "Yes.": {
+                "impish": 2
+            },
+            "No.": {
+                "docile": 1,
+                "relaxed": 1
+            }
+        }
+    },
+    {
+        "string": "Are there many things that you would like to do?",
+        "group": 5,
+        "answers": {
+            "Yes.": {
+                "hardy": 1,
+                "impish": 2
+            },
+            "No.": {
+                "sassy": 1,
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "Your friend is being bullied! What do you do?",
+        "group": 5,
+        "answers": {
+            "Face up to the bully.": {
+                "brave": 3
+            },
+            "Caution the bully from afar.": {
+                "timid": 2
+            },
+            "Heckle the bully from behind.": {
+                "impish": 2
+            }
+        }
+    },
+    {
+        "string": "Do you like groan-inducing puns?",
+        "group": 6,
+        "answers": {
+            "Love them!": {
+                "impish": 1,
+                "naive": 3
+            },
+            "A little.": {
+                "jolly": 2
+            },
+            "Spare me.": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "Do you tend to laugh a lot?",
+        "group": 6,
+        "answers": {
+            "Yes.": {
+                "docile": 1,
+                "naive": 2
+            },
+            "No.": {
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "Do others often call you childish?",
+        "group": 6,
+        "answers": {
+            "Yes.": {
+                "jolly": 1,
+                "naive": 2
+            },
+            "No.": {
+                "calm": 2
+            }
+        }
+    },
+    {
+        "string": "Do you like to imagine things for your amusement?",
+        "group": 6,
+        "answers": {
+            "Yes.": {
+                "naive": 2
+            },
+            "No.": {
+                "hasty": 2
+            }
+        }
+    },
+    {
+        "string": "A human hand extends out of a toilet! What would you do?",
+        "group": 7,
+        "answers": {
+            "Scream and run.": {
+                "timid": 2
+            },
+            "Close the lid without a word.": {
+                "hardy": 1,
+                "calm": 2
+            },
+            "Shake hands with it.": {
+                "brave": 2,
+                "impish": 1,
+                "naive": 1
+            }
+        }
+    },
+    {
+        "string": "Grab any digit on your left hand with your right hand. Which digit did you grab?",
+        "group": 7,
+        "answers": {
+            "Thumb.": {
+                "timid": 2
+            },
+            "Index finger.": {
+                "hasty": 2
+            },
+            "Middle finger.": {
+                "jolly": 2
+            },
+            "Ring finger.": {
+                "sassy": 2
+            },
+            "Little finger." : {
+                "lonely": 2
+            }
+        }
+    },
+    {
+        "string": "You are suddenly locked inside a pitch-black room! What do you do?",
+        "group": 7,
+        "answers": {
+            "Kick the door.": {
+                "timid": 2
+            },
+            "Cry.": {
+                "lonely": 2
+            },
+            "Clean it.": {
+                "impish": 2,
+                "quirky": 1
+            }
+        }
+    },
+    {
+        "string": "Can you go into a haunted house?",
+        "group": 7,
+        "answers": {
+            "No problem!": {
+                "brave": 3
+            },
+            "Uh... N-no...": {
+                "timid": 2
+            },
+            "With someone I like.": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "You receive a gift! But you don't know what's in it. You're curious, so what do you do?",
+        "group": 8,
+        "answers": {
+            "Open it now.": {
+                "hasty": 2
+            },
+            "Open it later.": {
+                "calm": 2
+            },
+            "Get someone to open it.": {
+                "timid": 2
+            }
+        }
+    },
+    {
+        "string": "You win a lottery! What do you do with the money?",
+        "group": 8,
+        "answers": {
+            "Spend it now.": {
+                "jolly": 2,
+                "hasty": 1
+            },
+            "Save it.": {
+                "hardy": 1,
+                "calm": 1
+            },
+            "Give it away.": {
+                "brave": 2,
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "You come across a treasure chest! What do you do?",
+        "group": 8,
+        "answers": {
+            "Open it right away.": {
+                "hasty": 2
+            },
+            "No... It could be a trap...": {
+                "timid": 2
+            },
+            "It's going to be empty...": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "Your friend fails to show up for a meeting at the promised time. What do you do?",
+        "group": 8,
+        "answers": {
+            "Become irritated.": {
+                "docile": 1,
+                "hasty": 2
+            },
+            "Wait patiently.": {
+                "relaxed": 2
+            },
+            "Get angry and bail.": {
+                "hasty": 3
+            }
+        }
+    },
+    {
+        "string": "Your country's leader is in front of you. How do you speak to him or her?",
+        "group": 9,
+        "answers": {
+            "Speak calmly.": {
+                "hardy": 2
+            },
+            "Speak nervously.": {
+                "docile": 2
+            },
+            "WHATEVER!!": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "Do others tell you to watch what you say?",
+        "group": 9,
+        "answers": {
+            "Yes.": {
+                "impish": 1,
+                "sassy": 2
+            },
+            "No.": {
+                "calm": 2
+            }
+        }
+    },
+    {
+        "string": "Do you think you are cool? Be honest.",
+        "group": 9,
+        "answers": {
+            "Yes.": {
+                "sassy": 2
+            },
+            "No.": {
+                "relaxed": 2
+            }
+        }
+    },
+    {
+        "string": "Can you sincerely thank someone when you feel grateful?",
+        "group": 9,
+        "answers": {
+            "Yes.": {
+                "docile": 2,
+                "calm": 1
+            },
+            "No.": {
+                "sassy": 2,
+                "quirky": 1
+            }
+        }
+    },
+    {
+        "string": "Do you occasionally consider yourself dull and overly cautious?",
+        "group": 10,
+        "answers": {
+            "Yes.": {
+                "calm": 2,
+                "lonely": 1
+            },
+            "No.": {
+                "hardy": 2
+            }
+        }
+    },
+    {
+        "string": "Do you dream of lounging around idly without much excitement?",
+        "group": 10,
+        "answers": {
+            "Yes.": {
+                "calm": 2
+            },
+            "No.": {
+                "impish": 2
+            }
+        }
+    },
+    {
+        "string": "Do you like to fight?",
+        "group": 10,
+        "answers": {
+            "Yes.": {
+                "impish": 1,
+                "timid": 2
+            },
+            "No.": {
+                "calm": 2,
+                "lonely": 1
+            }
+        }
+    },
+    {
+        "string": "Do you often yawn?",
+        "group": 10,
+        "answers": {
+            "Yes.": {
+                "calm": 2,
+                "relaxed": 1
+            },
+            "No.": {
+                "hardy": 1,
+                "hasty": 2
+            }
+        }
+    },
+    {
+        "string": "Are you often late for school or meetings?",
+        "group": 11,
+        "answers": {
+            "Yes.": {
+                "sassy": 1,
+                "relaxed": 2
+            },
+            "No.": {
+                "hardy": 2,
+                "hasty": 1
+            }
+        }
+    },
+    {
+        "string": "Do you feel like you've slowed down lately?",
+        "group": 11,
+        "answers": {
+            "Yes.": {
+                "relaxed": 2
+            },
+            "No.": {
+                "impish": 1,
+                "hasty": 2
+            }
+        }
+    },
+    {
+        "string": "It is a pleasant day at the beach. How do you feel?",
+        "group": 11,
+        "answers": {
+            "This feels great!": {
+                "jolly": 2
+            },
+            "Snore...": {
+                "relaxed": 2
+            },
+            "I want to go home soon!": {
+                "hasty": 2
+            }
+        }
+    },
+    {
+        "string": "Do you fall asleep without noticing?",
+        "group": 11,
+        "answers": {
+            "Yes.": {
+                "calm": 1,
+                "relaxed": 2
+            },
+            "No.": {
+                "hardy": 2
+            }
+        }
+    },
+    {
+        "string": "Do you feel lonesome when you are alone?",
+        "group": 12,
+        "answers": {
+            "Yes.": {
+                "timid": 1,
+                "lonely": 2
+            },
+            "No.": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "Do you hate to be the last person to leave class at the end of a school day?",
+        "group": 12,
+        "answers": {
+            "Yes.": {
+                "timid": 1,
+                "lonely": 2
+            },
+            "No.": {
+                "brave": 3,
+                "relaxed": 1
+            }
+        }
+    },
+    {
+        "string": "What do you do with your room's light when you're going to bed at night?",
+        "group": 12,
+        "answers": {
+            "Leave it on.": {
+                "timid": 1,
+                "lonely": 2
+            },
+            "Turn it off.": {
+                "calm": 2
+            }
+        }
+    },
+    {
+        "string": "It's a weekend, but no one will play with you... What do you do?",
+        "group": 12,
+        "answers": {
+            "Go on a trip.": {
+                "jolly": 1,
+                "lonely": 1
+            },
+            "Hang around vacantly.": {
+                "calm": 1,
+                "relaxed": 2
+            },
+            "Huddle in a corner.": {
+                "timid": 1,
+                "lonely": 3
+            }
+        }
+    },
+    {
+        "string": "Do you sometimes run out of things to do all of a sudden?",
+        "group": 13,
+        "answers": {
+            "Yes.": {
+                "quirky": 2
+            },
+            "No.": {
+                "hardy": 2
+            }
+        }
+    },
+    {
+        "string": "How quickly do you respond to an e-mail?",
+        "group": 13,
+        "answers": {
+            "Reply right away.": {
+                "hardy": 1,
+                "hasty": 1
+            },
+            "May reply, may not.": {
+                "quirky": 2
+            },
+            "Too much trouble.": {
+                "sassy": 2
+            }
+        }
+    },
+    {
+        "string": "There's a person you like... But there's no opportunity to get close. What do you do?",
+        "group": 13,
+        "answers": {
+            "Bravely declare my love.": {
+                "hardy": 1,
+                "brave": 3
+            },
+            "Might say hello...": {
+                "quirky": 2
+            },
+            "Pull a prank to get attention.": {
+                "impish": 2
+            },
+            "Look from afar.": {
+                "timid": 2
+            }
+        }
+    },
+    {
+        "string": "The road forks to the right and left. You are told there is a treasure on the right side. What do you do?",
+        "group": 13,
+        "answers": {
+            "Instantly go right.": {
+                "docile": 2
+            },
+            "It's a trap! Go left.": {
+                "sassy": 2
+            },
+            "Choose either side.": {
+                "quirky": 2
+            }
+        }
+    },
+    {
+        "string": "On vacation outings, you want to...",
+        "group": 14,
+        "answers": {
+            "Go alone.": {
+                "hasty": 1,
+                "quirky": 1
+            },
+            "Go with others.": {
+                "jolly": 1,
+                "lonely": 1
+            }
+        }
+    },
+    {
+        "string": "It's the summer festival! Do you like carnivals?",
+        "group": 14,
+        "answers": {
+            "Love them!": {
+                "jolly": 2
+            },
+            "Don't care.": {
+                "sassy": 1,
+                "quirky": 1
+            }
+        }
+    },
+    {
+        "string": "Somebody calls you \"weird but funny.\" How does that make you feel?",
+        "group": 14,
+        "answers": {
+            "Happy!.": {
+                "naive": 1,
+                "lonely": 1
+            },
+            "Not happy.": {
+                "hasty": 1,
+                "sassy": 1
+            }
+        }
+    }
+]
