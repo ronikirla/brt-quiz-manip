@@ -38,15 +38,15 @@ There's two more techniques we can use to further increase the odds of a success
 
 With the general explanation out of the way, we can move into the steps to create a quiz manipulation using the scripts in this repository.
 
-### Step 1: quiz_miner.py
+### Step 1: [quiz_miner.py](quiz_miner.py)
 Using this script, we can perform the heavy lifting and find the range of seeds with good questions. Honestly, this script could use a C++ implementation with parallelization but for now this one will suffice. Running it for an  extended time has diminishing returns anyway.  Some full 32-bit range runs are provided in seed_miner_output_examples.
 
 The script asks for the nature and desired categories. For the categories, I recommend looking in questions.json for the categories that have a single question that yields at most 2 points. For example, with Hasty these would be 6, 7, 10. The starting seed is just where the program starts searching and window width means how many consecutive desirable questions are searched for.
 
-### Step 2: quiz_printer.py
+### Step 2: [quiz_printer.py](quiz_printer.py)
 This script can be used to print a timeline of seeds and which questions they correspond to. Input the staring and ending seed given as the output of the previous step. Then specify the output filename.
 
-### Step 3: brt_rng.lua
+### Step 3: [brt_rng.lua](brt_rng.lua)
 
 Now it is time to figure out which seed to start from in the save file. This was perhaps the most difficult part to figure out. First, we need an offset from the moment you load the save file to the start of the quiz. This can be obtained using this Lua-script on the emulator DeSmuME. Here's what the script shows:
 | Field |Explanation  |
@@ -63,7 +63,7 @@ Here we are primarily interested in the question frame. This tells us the offset
 
 You can copy my offset to skip this step, but it is platform-dependent due to varying load times. Using the US rom, DeSmuME 0.9.11 with the [optimal speedrun settings](https://docs.google.com/document/d/10J0slaIIrFMQxtR2daUAAVCgiexSQkAaTzEePZ3DyDc/edit?usp=sharing) and the timing method described above,  the number of advances is 818. DS is around 7 frames slower.
 
-### Step 4: seed_inverter.py
+### Step 4: [seed_inverter.py](seed_inverter.py)
  Not only do you need the offset, but also the seed the game starts from is not simply the one inserted into the save file. Instead, the game calls the RNG twice and uses the results of those calls to re-seed it. So, an inverse function of this is implemented in this script.
  1. Find the midpoint of the consecutive questions from the output generated in step 2. You can Ctrl+F "ENDING SEED" to get to the last one.
  2. Go up as many lines as your discovered offset (using VSCode ctrl+G for exmaple).
