@@ -70,7 +70,7 @@ You can copy my offset to skip this step, but it is platform-dependent due to va
  3. Input the seed number on the line you end up at into this script.
  4. Not every seed can be inverted. If unsuccessful, you could try an adjacent seed in the seed_printer output or generate an entirely different seed range based on what you found in step 1.
 
-### Step 5: Input the seed into the save file
+### Step 5: Input the Seed Into the Save File
 
 Now that we finally have the desired seed, it is time to create a save file with the seed. Simply just hex-editing the seed into the save does not work, because it would cause a checksum mismatch. A more sophisticated solution could be developed for this, but the simplest way to achieve this is to create a cheat code in DesMuME that freezes the RNG and then deleting the save file with that code active.
 
@@ -82,7 +82,7 @@ Now that we finally have the desired seed, it is time to create a save file with
 6. You can use the Lua-script to check whether the game loads the correct seed from the file, as it prints the initial seed to the console.
 
 
-### Step 6: Verify it works
+### Step 6: Verify It Works
 Perform the manipulation, trying to hit as close as you can to the same frame as you did when determining the offset. You can use the output of quiz_printer.py to see which frame you hit. This is how I found the difference between emulator and console. Additionally, if you are performing the manipulation on an emulator, you can use brt_rng.lua to directly tell you which frame you hit.
 
 If it does not work, you either made an error or got unlucky with creating the manipulation as there is a variance of about +/- 5 RNG calls before the quiz depending on the frame you hit. You can see this by paying attention to the offset value in the Lua-script. Addressing this is currently out of my skillset and the best solution is to just try to adjust the offset or the frame window of the manipulation. It is always possible to create a manipulation with a really wide frame window, but then the odds of finding good follow-up questions will not be quite as high.
