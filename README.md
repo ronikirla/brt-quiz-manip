@@ -44,7 +44,7 @@ Using this script, we can perform the heavy lifting and find the range of seeds 
 The script asks for the nature and desired categories. For the categories, I recommend looking in [questions.json](questions.json) for the categories that have a single question that yields at most 2 points. For example, with Hasty these would be 6, 7, 10. The starting seed is just where the program starts searching and window width means how many consecutive desirable questions are searched for.
 
 ### Step 2: [quiz_printer.py](quiz_printer.py)
-This script can be used to print a timeline of seeds and which questions they correspond to. Input the staring and ending seed given as the output of the previous step. Then specify the output filename.
+This script can be used to print a timeline of seeds and which questions they correspond to. Input the starting and ending seed given as the output of the previous step. Then specify the output filename.
 
 ### Step 3: [brt_rng.lua](brt_rng.lua)
 
