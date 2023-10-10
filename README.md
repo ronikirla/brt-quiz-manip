@@ -57,7 +57,7 @@ Now it is time to figure out which seed to start from in the save file. This was
 | Advances | The number of RNG advances that happened in this frame |
 | Offset | Difference in number of advances from the expected 2 per frame (can be changed) |
 | Frame | Current RNG frame (number of total advances)
-| A press | The RNG frame of the last A-button press |
+| A Press | The RNG frame of the last A-button press |
 
 Here we are primarily interested in the question frame. This tells us the offset, we just need a consistent way to always hit the same frame. For this, I recommend taking the same steps as in the ready-made manipulations, but you could experiment with other methods, such as metronome timers.
 
